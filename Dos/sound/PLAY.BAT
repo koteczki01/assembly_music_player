@@ -1,0 +1,1 @@
+c:\nasm\nasm -o player.com -f bin sound.asm
