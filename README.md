@@ -11,7 +11,7 @@ This is a simple music player for MS-DOS written in Assembly with three built-in
 
 It's written in a way that adding new pieces of music is easy and straighforward. Detailed explanation of the code will be included in the next sections.
 
-All arrangements of the included music pieces were written by me.
+All of the music belongs to the respective composers. The arrangements included in this music player were made by me. 
 
 ## Technologies
 
